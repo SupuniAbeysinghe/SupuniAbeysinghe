@@ -1,6 +1,4 @@
-<a href="https://rishavchanda.io">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" style="width: 100%;">
-</a>
+
 <h1 align="center">Hi 👋, I'm Supuni Abeysinghe</h1>
 <h3 align="center">I am a motivated and dedicated Software Engineering undergraduate at the University of Kelaniya. Possesses excellent time management, teamwork, and communication skills. A fast learner who thrives in dynamic environments and adapts quickly to new challenges and technologies.</h3><br>
 
