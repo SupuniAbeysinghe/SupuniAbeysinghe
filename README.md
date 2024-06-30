@@ -4,6 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> <br>
 
+- 🌱 I’m currently learning  **Type Script, Go, AWS, Nginx**
+
+- 💬 Ask me about **Java**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SupuniAbeysinghe](https://github.com/SupuniAbeysinghe)
+
+- 📝 I regularly write articles on [https://medium.com/@supuniab1](https://medium.com/@supuniab1)
 
 - 📫 How to reach me **abeysinghesupuni@gmail.com**
 <br>
