@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> <br>
 
-- 🌱 I’m currently learning  **Type Script, Go, AWS, Nginx**
+- 🌱 I’m currently learning  **Type Script, Go, AWS, Nginx, GitHub Actions CI/CD**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, OOP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SupuniAbeysinghe](https://github.com/SupuniAbeysinghe)
 
