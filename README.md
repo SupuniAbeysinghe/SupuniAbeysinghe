@@ -7,12 +7,15 @@
 - 🌱 I’m currently learning  **Angular, AWS, Nginx, GitHub Actions CI/CD**
 
 - 💬 Ask me about **Java, OOP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SupuniAbeysinghe](https://github.com/SupuniAbeysinghe)
+  
+- 📫 How to reach me **abeysinghesupuni@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@supuniab1](https://medium.com/@supuniab1)
 
-- 📫 How to reach me **abeysinghesupuni@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/SupuniAbeysinghe](https://github.com/SupuniAbeysinghe)
+
+
+
 <br>
 
 
