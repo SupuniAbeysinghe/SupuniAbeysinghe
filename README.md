@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Supuni Abeysinghe</h1>
-<h3 align="center">I am a motivated and dedicated Software Engineering undergraduate at the University of Kelaniya. Possesses excellent time management, teamwork, and communication skills. A fast learner who thrives in dynamic environments and adapts quickly to new challenges and technologies.</h3><br>
+<h3 align="center">Aspiring software engineer with a passion for building efficient and scalable solutions. Possesses excellent time management, teamwork, and communication skills. A fast learner who thrives in dynamic environments and adapts quickly to new challenges and technologies.</h3><br>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> <br>
 
